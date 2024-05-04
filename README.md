@@ -17,20 +17,26 @@ monitor key metrics and track their performance.
 
 # ScreenShots
 
-### - This is How the Landing Page looks like
-![landing-page](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/6c215c44-4e3c-4cb3-bfd0-3fa1abd44832)
+### - Landing Page 
+![image](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/20afa60c-bcf7-4bc7-ba62-22e3d3152e4b)
+
 
 ### - Customers Page 
-![customers-page](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/63e355ca-fcf1-464a-a7e9-dca0ce8de167)
+![image](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/3f2f7bfb-179c-4179-a9b9-ddef356f1df7)
+
 
 ### - Calendar App
-![calendar](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/c1460376-1734-479f-bbbe-8558f6a19bfe)
+![image](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/8c565ca7-a7a4-4803-9437-66af1cab0a4c)
 
-### - Pie Chart 
-![pie-chart](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/83c2f275-7936-409d-92c7-b4697f0ed0ed)
+
+### - Chart 
+![image](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/b8b52369-dc8a-403c-9325-2ae4ccdf10b7)
+
 
 ### - Cart
-![image](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/b0a9c830-4c3d-4f4d-952f-2bfff45063d4)
+![image](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/b005db86-00dc-4414-969f-3cdb8a4c9e46)
+
 
 ### - Message and Notification
-![message](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/30d6bb90-d0a2-4478-8f09-7018333fcc83)
+![image](https://github.com/yuvrajzingh/cartify-admin-dashboard/assets/88030872/2de26472-ec34-493a-a9bd-0fa4f9b8ed68)
+
