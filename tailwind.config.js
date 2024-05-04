@@ -12,8 +12,8 @@ module.exports = {
         },
         backgroundColor: {
           'main-bg': '#FAFBFB',
-          'main-dark-bg': '#20232A',
-          'secondary-dark-bg': '#33373E',
+          'main-dark-bg': '#000',
+          'secondary-dark-bg': '#333',
           'light-gray': '#F7F7F7',
           'half-transparent': 'rgba(0, 0, 0, 0.5)',
         },
@@ -40,7 +40,7 @@ module.exports = {
         },
         backgroundImage: {
           'hero-pattern':
-            "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+            "url('https://www.shutterstock.com/image-vector/3d-vector-pouch-money-bag-260nw-2224062675.jpg')",
         },
       },
     },
